@@ -3,7 +3,7 @@ import time
 
 import pandas as pd
 
-from models.base_model import BaseModel
+from base_model import BaseModel
 from util import dt_util
 
 """
